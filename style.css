@@ -82,3 +82,8 @@ div{
     }
 
 }
+
+
+#stage {
+    text-transform: capitalize;
+}
