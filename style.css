@@ -10,7 +10,7 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
-    background-color: rgba(102, 102, 102, 0.705);
+    background-color: rgba(0, 0, 0, 0.903);
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -39,6 +39,7 @@ div{
         opacity: 3px;
         margin-left: 10px;
         box-shadow: inset 0px 0px 10px black;
+        text-transform: capitalize;
         
     }
 
